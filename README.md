@@ -10,8 +10,8 @@ column of fang_et_al_genotypes.txt: 986
 By inspecting this file I learned that:
 line:984 word:13198 byte:82763 filename:snp_position.txt
 column of snp_position.txt: 15
-##Data Processing
 
+##Data Processing
 ###Maize Data
 
 here is my snippet of code used for data processing
